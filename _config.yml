@@ -9,42 +9,36 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Los_Angeles
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Jordan Porter
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: tunasplam@gmail.com # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Blog on programming, data analysis, and literature. Freelance worker.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://tunasplam.github.io"
 
 github:
-  username: github_username # change to your GitHub username
-
-twitter:
-  username: twitter_username # change to your Twitter username
+  username: tunasplam
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Jordan Porter
+  email: tunasplam@gmail.com
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://github.com/tunasplam # change to your GitHub homepage
+    - https://www.linkedin.com/in/jordan-porter-b24531229
 
-# Site Verification Settings
+# Site Verification Settings TODO figure this out later
 webmaster_verifications:
   google: # fill in your Google verification code
   bing: # fill in your Bing verification code
@@ -56,7 +50,7 @@ webmaster_verifications:
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-# Web Analytics Settings
+# Web Analytics Settings TODO fill in later
 analytics:
   google:
     id: # fill in your Google Analytics ID
@@ -98,11 +92,11 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: resources/PFP.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: # string, local or CORS resources TODO i think this is tab icon
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -147,7 +141,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+# paginate: 10
 
 # The base URL of your site
 baseurl: ""
