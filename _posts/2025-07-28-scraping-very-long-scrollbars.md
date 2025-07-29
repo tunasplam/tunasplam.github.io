@@ -9,7 +9,7 @@ tags: [scraping]
 
 Scraping address data from brand websites is a common technique for retrieving data for analysis. Often times this data is held within a very long scroll bar. These scrollbars can range from a containing a couple dozen entries to tens of thousands. In this post, I outline a basic approach to scraping a web directory that contains a variant of this situation.
 
-## Prerequisites
+### Prerequisites
 
 If you would like to follow along, the code can be referenced in the following [repo](https://github.com/tunasplam/brewery-scraper). Follow the README to set up your local environment. [Here](https://www.brewersassociation.org/directories/breweries/) is the page being scraped.
 
