@@ -2,7 +2,7 @@
 title: "Better Block Group Centroids"
 date:  2025-07-26
 categories: [analytics]
-tags: [census_cartography, postgis]
+tags: [Census Cartography, postgis]
 ---
 
 ### Summary
