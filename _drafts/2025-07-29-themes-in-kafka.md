@@ -27,23 +27,19 @@ A common recurring theme in Kafka's stories is a strained relationship between a
 
 The passing of judgement from a higher party to a lesser one without any opporunity for the accused to defend themselve also plays a prominent role in Kafka's works.
 
-- *The Penal Colony* - EXPAND The officer goes on about how this was important under the old regime or something like that.
+- *In The Penal Colony* - In this tale, a man is being executed in a brutal fashion for a trivial crime that he was given no chance to defend himself over. In fact, he is not even aware of the charges which were levied against him!
 
-- *The Stoker* - EXPAND The parents quick willingness to exile their son.
-
-- *The Judgement* - EXPAND The father's mental illness makes it impossible for the son to defend himself.
+- *The Stoker* - This story relates a boy who was exiled to America after being seduced by a houseservant. The circumstances of the seduction are themselves questionable, but the story suggests that the parents did not offer the child a chance to defend himself, or at least paid any serious attention to any attempts.
 
 ## The Absurd (often times linked with Bureaucracy)
 
-- *The New Advocate* - EXPAND Alexander the Great's horse transitioning to law late in his life?
+Some of Kafka's works seem absurd to readers and the *Metamorphosis* is an obvious example of this. Kafka seems to use this absurdity as a way to draw the readers to an intended meaning. 
 
-- *A Country Doctor* - EXPAND yeah this ones going to take some thought
+- *The New Advocate* - Alexander the Great's horse transitioning to law late in his life? This tale a is a very short but quite strange.
 
-- *An Old Manuscript* - EXPAND maybe?
+- *A Country Doctor* - This tale felt like a New England pastoral horror story. It is riddled with absurdity and at some point I would like to revisit it and perhaps write an article about it.
 
-- *Before the Law* - EXPAND
-
-- *An Imperial Message* - EXPAND
+- *In the Penal Colon* - The entire execution process is entirely absurd.
 
 ## Final Notes
 I plan on revisiting some of Kafka's other works such as Amerika in the future and will hopefully incorporate them into this article.
