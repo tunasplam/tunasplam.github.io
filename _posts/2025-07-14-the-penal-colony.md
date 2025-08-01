@@ -1,11 +1,11 @@
 ---
-title: "The Penal Colony"
+title: "In The Penal Colony"
 date:  2025-07-14
 categories: [literature]
 tags: [Franz Kafka]
 ---
 
-# The Penal Colony
+# In The Penal Colony
 Collected Stories - Everyman's Library Edition 1993
 
 ## Summary
