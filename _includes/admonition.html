@@ -1,0 +1,8 @@
+<div class="admonition admonition-{{ include.type | downcase }}">
+  <p class="admonition-title">
+    {{ include.title }}
+  </p>
+  <div class="admonition-content">
+    {{ include.content | markdownify }}
+  </div>
+</div>

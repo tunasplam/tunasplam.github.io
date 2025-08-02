@@ -3,7 +3,7 @@
 Based on Chirpy Starter
 
 ### Preview
-`sudo bundle exec jekyll serve --livereload`
+`sudo bundle exec jekyll serve --livereload --drafts`
 
 # Chirpy-Starter info
 
