@@ -31,3 +31,20 @@
 .admonition-er-note .admonition-title::before {
   content: "✒️ Eastern Philosophy Note ॐ☸☯ -  ";
 }
+
+.admonition-names-note {
+  padding: 1em;
+  border-left: 6px solid;
+  border-right: 6px solid;
+  margin: 1.5em 0;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+
+  border-color: #c09f0a;
+  background-color: #3b6828;
+  color: #e9e7e7;
+}
+
+.admonition-names-note .admonition-title::before {
+  content: "✒️ Name Note -  ";
+}

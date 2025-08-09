@@ -39,6 +39,10 @@ The novel is split into two parts, each of which contains chapters which relate 
 If you are unfamiliar with anything regarding Eastern philosophies, that is okay, we are both in the same boat. Boxes like these spread throughout the article summarize my brief research on these topics as I encountered them throughout the novel."
 %}
 
+{% include admonition.html type="names-note" title="The Meaning of Names" content="
+Hesse chose the names of his characters to highlight their purpose in the narrative. Boxes like these will contain the results of a cursory dive into a Sanskrit dictionary to shed some light on the meaning of these names."
+%}
+
 ### Dedication
 
 This post is dedicated in memory of a friend whose life closely mirrored that of Siddhartha's. A son of a minister, exceptionally bright, acutely tuned to matters of spirituality and morality, beloved by many -- yet plagued with the same unease and discontent as Siddhartha.
@@ -56,6 +60,10 @@ Govinda observed,
 > Siddhartha would never become an ordinary brahmin, a lazy purveyor of rituals, a greedy dealer in charms, a vain mouther of empty phrases, a base and devious priest, nor would he become a mindless good sheep in the common herd (pg. 4).
 
 Our protaganist did not fit within the confines of organized religion because his morals and desire to seek the truth made formal ministry work unappealing while his deep spirituality and questioning mind precluded any chance of him becoming a mindless practitioner.
+
+{% include admonition.html type="names-note" title="Siddhartha" content="
+Possible Sanskrit interpretations include *successful* and *prosperous* but perhaps more relevant to the novel are the meanings *one whose aim or intention is know* or *one who has accomplished an aim or object*." 
+%}
 
 ### What was missing?
 
@@ -121,6 +129,10 @@ Not the band, but having now research the concept of Nirvana, the band name feel
 
 Since ascetics appear to be unable to attain nirvana, the fruits of their labor are limited to a temporary discarding of the ego, something which Siddhartha lamented can be learned "in any tavern in the whore's quarter" (pg. 18). He then continued to explain that the temporary escapes resulting from the pursuit of asceticism are no different than the result of a hard night of drinking by someone who wants to "forget themselves" for a time. Frustrated that their success in the ways of asceticism caused them to come no nearer to the goal that they were seeking, Siddhartha and Govinda left the sect in search of a teacher who had reportedly attained Nirvana.
 
+{% include admonition.html type="names-note" title="Govinda" content="
+Govinda's name appears to mean either *chief hersman* or *one who gives pleasure to the sense*, both of which feel unrelated to the story. Further exploration shows that there is a set of poems composed in 12th century India called the *Gita Govinda*. These describe the relationship between a few key gods and a group of female cowherders. So it is possible that Govinda represents the relationship between Siddhartha and society as a whole, with Govinda representing the greatest possible example of what friendship can offer." 
+%}
+
 ### Reaction
 
 Certain excepts of the account of Siddhartha's life as an ascetic appear similar to the life of someone with depression. Being "...empty of thirst, empty of dreams, empty of joy and sorrow" (pg. 15) is particularly reminiscent of the numbed feeling. Maybe depression is the subconcious pulling one into an ascetic phase, demanding that they step back from life and deeply evaluate their situation before proceeding?
@@ -136,6 +148,10 @@ Siddhartha and Govinda, feeling dissatisfied from their experiences as ascetics,
 I am not sure how this passage would be interpretted by someone more familiar with eastern culture, but this did not leave a good first impression to me. In fact, it did quite the opposite, as it harkened forth images of grifters seeking to live a carefree life of luxury off of the toils of others. The scenes in the pleasure garden did little to assuage these concerns. However, our intrepid duo listened to a sermon delivered by Gotama and were thoroughly impressed. Even Siddhartha appeared to be completely enraptured.
 
 > He (Siddhartha) was little interested in the teaching; he doubted it would contain anything new to him, since, like Govinda, he had repreatedly heard the content of this Buddhadharma, even if only second- or thirdhand. But he kept his eye attentively on the Buddha's head, his shoulders, his feet, on his still, loose hand; and it seemed to him that every joint on every finger of this hand was a teaching, that it spoke truth, breathed truth, smelled of truth, glowed with truth. This man, this Buddha, was in truth who he was even in the movements of his little fingers. This man was holy. Never had Siddhartha so venerated someone, never had he loved a person as he loved this one (pg. 31).
+
+{% include admonition.html type="names-note" title="Gotama" content="
+Gotama means *kind of poison* in Sanskrit. Fascinating!" 
+%}
 
 ### What People Seek in Religion
 
