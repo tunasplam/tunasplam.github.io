@@ -26,5 +26,21 @@
   // Run tasks in macOS
   "terminal.integrated.profiles.osx": {
     "zsh": { "path": "/bin/zsh", "args": ["-l", "-i"] }
-  }
+  },
+  "cSpell.words": [
+    "Buddhadharma",
+    "derth",
+    "Gita",
+    "headedness",
+    "kamasu",
+    "Kamaswami",
+    "shramana",
+    "Shramanas",
+    "statefulness",
+    "thirdhand",
+    "townsperson",
+    "Vasu",
+    "Vasudeva",
+    "villainize"
+  ]
 }
