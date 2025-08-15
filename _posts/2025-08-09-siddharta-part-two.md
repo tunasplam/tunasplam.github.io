@@ -203,9 +203,9 @@ Siddhartha parted from the river.
 
 The river is probably a metaphor but at this time the meaning eludes me. Perhaps the next chapter will shed some light.
 
-## The Ferryman
+## The Ferryman - A Life of Quiet Spiritual Intellectualism
 
-### A Renunion
+### Another Reunion
 
 The river ended up becoming life changing for Siddhartha. And unlike the previous life changing experiences which seemed to fade over time, this one continuously renews Siddhartha. He discovers that the ferryman, named Vasudeva, from who gave him passage to the city many decades ago was still alive and also basking in the presence of the river. The two live a peaceful life of menial labor together as they commune with and are instructed by the river.
 
@@ -231,7 +231,7 @@ Siddhartha extends this line of reasoning and realizes that much of the stress t
 
 It is possible that the river represents the stream of thoughts and observations passing by Siddhartha's consciousness. Siddhartha is off to the side witnessing this stream as outlined earlier in the novel. He learns much from his observations of the world, but he still confers with Vasudeva, an individual of greater experience and spiritual maturity, to confirm and expound upon his observations. This feels like a very good and simple model for spiritual development.
 
-### Another Reunion
+### A Final Reunion
 
 Word had spread far and wide that Gotama was nearing the end of his days and thus would break free of samsara. Kamala, who at this point had a son named Siddhartha, decided to go witness the passing. The two of them begin their journey and near the spot where Siddhartha Sr. and Vasudeva work. Kamala is bitten by a venomous snake and is brought to the dwelling of the ferrymen. Although she is reunited with Siddhartha Sr. in the final moments of her life and obtains peace, she dies, leaving the son in the hands of his father. While reflecting upon the visage of his dead wife, Siddhartha observes:
 
@@ -254,3 +254,89 @@ Despite all of the accumulated experience and knowledge that Siddhartha had obta
 The mountain of spiritual incompatibility between the father and son had grown so damaged that it appeared insurmountable. So what to do in this situation? Vasudeva counseled that the father let the son go free and seek his own fate. The son eventually runs away, and Vasudeva counseled that the father leave him to his fate, but Siddhartha gave chase to his son. The journey took him back to the pleasure garden where he met Kamala, and the turmoil with his son coupled with the memories and loss of Kamala caused Siddhartha to lose his *present* stance and sink into a catatonic state. He is eventually found and brought back to the present by Vasudeva, and they continue living their life of peace.
 
 At first glance, it appears that Vasudeva is encouraging that parents kick children out of their homes if it becomes obvious that the home environment is not conducive to their growth. However, this is metaphoric-- please do not kick your children out of your homes. Instead, "letting the son go" meant that Siddhartha Sr. should no longer attempt to force his beliefs upon his son and instead allow the son to observe and grow his own set of beliefs. After all, referring back to the model outlined in the previous chapter, the river is the observations and thoughts of each person's consciousness so the river is deeply personal to each person. If Siddhartha's son is being forced to witness and observe what his father wants him to, he is not truly "listening to the river". Now it is beginning to become apparent why this text is considered foundational for the Unitarian movement.
+
+## Om
+
+### Some Unsettling Insights
+
+Siddhartha continued his life as a ferryman, but the wound of the loss of his son still weighed heavily upon him. He pondered:
+
+> So many people ... possess this most wonderful of happiness, why not I? Bad people... have children, love them and are loved by them in return, only not me." So simple were his thoughts now, so without understanding. That is how much he had come to resemble to child people (pg 136).
+
+Wow, now we are back to Siddhartha resembling the child people again! It feels like things are going around in circles, like we are back in samsara.
+
+> He felt as they did. Although he was nearer to perfection and bore his last wound, it nevertheless seemed to him that these people were his brothers (pg. 136).
+
+Siddhartha was still on the path to enlightenment, and further along than the average "child person". So maybe instead of a circle we are seeing the upward spiral that Govinda referred to later in the novel. However, Siddhartha now began questioning the value of the enlightenment itself.
+
+> The wise man and thinker had nothing over them except one trifle, one little tiny thing: the awareness, the conscious idea, of the unity of all life. And Siddhartha even doubted many a time that this knowledge, this idea, was so very valuable-- was it not perhaps an example of the childishness of the think people, the intellectual version of the child people? (pg. 137)
+
+So was his whole journey for nought? This entire time he sought liberation from both society and himself towards the goal of enlightenment only to find that the society he disdained was the true beauty and enlightenment was worthless? He had gained this enlightenment but could not even share it with his own son. What was the point if you could not share it to help others?
+
+Siddhartha observed his experiences more closely and realized that him losing his son must have been the same pain that his father experienced when his son left to become an ascetic. He observed:
+
+> Everything returned that had not been suffered through to the end and resolved. The same pains were always suffered again. (pg 139)
+
+This sounds like the famous adage "history repeats itself" or the "sins of a father..." proverb. Pain will continue to be suffered until its thoroughly resolved Perhaps this means thoroughly analyzed, understood, and thus becomes preventable or at least mitigated?
+
+### Everything Intends upon a Goal
+
+Siddhartha came to a realization about the river:
+
+> The river strove toward its goal; Siddhartha saw it hurrying on, this river composed of himself and those near him and of all the people he had ever seen. All the waves and currents hurried onward, suffering, toward objected, many goals. The waterfall, the lake, the rapids, the sea, and all the goals were reached; and each was followed by a new one. (pg 142)
+
+He noticed that everything around him was intended upon a goal. Even he, living his seemingly idle life as a ferryman, was intended on the goal of seeking enlightenment and peace. This sounds a lot like Sartre and Husserl's philosophies of intentionality, which Hesse was likely aware of and influenced by.
+
+### Everything is Connected, and the Composition it Creates is Beautiful
+
+Siddhartha continued contemplating all of the things that he witnessed, but this led to another life changing realization.
+
+> He had often heard these things before, these many voices in the river, but today he heard it in a new way. Now he no longer distinguished the many voices, ... They were all part of each other... And everything together, all the voices, all the goals, all the striving, all the suffering, all the pleasure-- everything together was the river of what is, the music of life... when he perceived the unity, then the great song of a thousand voices formed on single word: *OM*, perfection. (pg 143)
+
+So here we have it, the beautiful realization is that life and reality is precious and beautiful and all one has to do to find enlightenment is simply observe it and be present in every moment. To live life to the fullest and love every aspect of it. Even when in the lowest depths of despair, it is still a part of the beautiful reality that we are amid. This can be a troubling doctrine to those who have experienced pain and loss, but remember that Hesse himself experienced his fair share of suffering, yet he still became a proponent of this viewpoint.
+
+Upon realizing the beauty of life, he surrendered his struggles and goals to become one with the flow of life:
+
+> His wound blossomed, his suffering was radiant, his ego had dissolved into the unity. At this moment, Siddhartha ceased to struggle with fate, ceased to suffer. On his face bloomed the cheerfulness of wisdom that is no longer opposed by will, that knows perfection, that is in harmony with the river of what is, with the current of life, full of compassion, full of empathic joy, surrendered to the flow, part of the unity. (pg 144)
+
+After sharing these insights with Vasudeva, the wise old ferryman realized that Siddhartha had found the insight that he needed and left. Siddhartha had reached spiritual maturity at long last.
+
+## Govinda - Summarizing the Story
+
+### Break Free from the Cycle of Intentionality
+
+Govinda was living in the same pleasure garden where Kamala and Siddhartha had met. He was approaching old age and heard about a sage living by the river and sought him out. Eventually, Siddhartha reveals his identity to him, and Govinda asks Siddhartha to impart some of his teachings upon him. Through this conversation we get a couple of summaries of the teachings of the novel.
+
+> "When someone seeks," said Siddhartha, "it can easily happen that his eyes only see the thing he is seeking and that he is incapable of finding anything, incapable of taking anything in, because he is always only thinking about what he is seeking, because he has an object, a goal, because he is possessed by this goal. Seeking means having a goal. Perhaps you, venerable one, are indeed a seeker, for in striving after your goal, are indeed a seeker, for in striving after your goal, there is much you fail to see that is right before your eyes. (pg 146)
+
+Maybe samsara is the cycle of intending upon objects and goals. We strive for grades, then we strive for our degree, then we strive for a career, then we strive, etc. The cycle continues, and all the while the striving for these goals are like horse blinders which obscure the beauty of the world around us. Enlightenment came to Siddhartha when he realized that life itself is beautiful and should be enjoyed, and that seeking after goals only tore one away from the present. The ironic thing about Govinda's life was that he was intending upon enlightenment but it was the intentionality itself that was keeping him from enlightenment.
+
+### Wisdom Cannot be Taught
+
+Govinda was confused and requested something a bit more concrete. However, Siddhartha responded:
+
+> I have had ideas, yes, and insights too, all along. At times I have felt wisdom in me for an hour or for a day, just as a person will sometimes feel the life in his heart. There were many ideas, but it would be difficult for me to express them to you. See here Govinda, this is one of the ideas that I have come to: Wisdom is not expressible. Wisdom, when a wise man tries to express it, always sounds like foolishness. (pg 148)
+
+This concept was touched upon at various points in the novel and Hesse does a good job summarizing it into a concise proverb in the concluding sentence of the above passage. It was frustrating for Siddhartha that he could not share his experiences and wisdom with his son. Knowledge can be shared and imparted but wisdom is deeply personal and has to be developed and understood through experience. Perhaps too, just as the flow of life is unique to each person, the wisdom that is learned from it is uniquely personal as well.
+
+### Love is Everything
+
+Siddhartha seemed to have an on-and-off-again relationship with love throughout the story. He had experienced love from his family, had love for his friend Govinda, experienced lustful and then relational love with Kamala, experienced love for his son, and now was experiencing a love of life as a whole. Here Siddhartha summarized his stance on love:
+
+> Love, for me Govinda, is clearly the main thing. Let seeing through the world, explaining it, looking don on it, be the business of great thinkers. The only thing of importance to me is being able to love the world, without looking down on it, without hating it and myself-- being able to regard it and myself and all beings with love, admiration, and reverence. (pg 154)
+
+### An Aside - Parting Thoughts
+
+There were a lot of other points in this summary chapter that were a bit too opaque to me, especially some insights into the duality of nature and the non-existence of time. I know that duality is supposedly a major teaching in various eastern religions, and maybe with more background knowledge these points would become clearer and more meaningful to me. At the very least, they present motivation to revisit this novel at a later date after learning more.
+
+Govinda's parting words do a really great job summarizing my initial reaction to this novel:
+
+> Thank you, Siddhartha, for having told me something of your ideas. They are in part curious ideas; not all of them were immediately comprehensible for me. But be that as it may, I thank you and wish yuo days of peace.  (pg 155)
+
+## Closing Thoughts
+
+Wow, this novel was a whirlwind and these entries ended up growing to a size that I did not expect. Furthermore, there was much more that could have been analyzed in this story which felt a little too opaque for me. I am certain that alternate models of understanding could be applied to this story to yield different insights, and that would be very fitting considering the summarizing points of this story.
+
+### Giving up on Spiritualism?
+
+In the introduction, we were given a rough outline of Siddhartha's path which ended off somewhat surprisingly: giving up on spiritualism. At first, I thought "so Siddhartha gives up on the goal of spiritualism? Is it because there is no answer, or because the goal is ultimately unattainable?" But now I think the meaning is clear, spiritual peace is only obtained when one is fully immersed in the present, and seeking out spiritual truths tears one away from the present. So in order to obtain spiritual peace, on must give up on seeking spirituality.
