@@ -10,6 +10,7 @@ tags: [Census Cartography, postgis]
 Cartographic shapes provided by the US Census Bureau are foundational for US-based geospatial analytics professionals. Here I share a quick tip for enchancing cartographic shapes with weighted centroids that are usually better suited for analysis than traditional centroids. Although I will use block groups as the example in this post, this methodology can be adapted for other cartographies such as ZIP codes and census tracts.
 
 ## Prerequisites
+
 If you would like to follow along, you will need the following setup. I am using a local instance of Postgres 17.5 + PostGIS on Ubuntu.
 
 `sudo apt-get install postgresql postgis`
