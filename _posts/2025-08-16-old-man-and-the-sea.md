@@ -1,6 +1,6 @@
 ---
 title: "The Old Man and the Sea"
-date:  2025-08-01
+date:  2025-08-16
 categories: [literature]
 tags: [Ernest Hemingway]
 ---

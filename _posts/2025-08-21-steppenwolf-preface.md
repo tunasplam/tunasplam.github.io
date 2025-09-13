@@ -1,6 +1,6 @@
 ---
 title: "Steppenwolf - Preface"
-date:  2025-08-01
+date:  2025-08-21
 categories: [literature]
 tags: [Herman Hesse, Eastern Philosophy, Steppenwolf]
 ---

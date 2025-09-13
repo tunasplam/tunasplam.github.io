@@ -1,6 +1,6 @@
 ---
 title: "Siddhartha Part Two"
-date:  2025-08-01
+date:  2025-08-09
 categories: [literature]
 tags: [Herman Hesse, Eastern Philosophy]
 ---
