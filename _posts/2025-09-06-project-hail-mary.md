@@ -2,7 +2,7 @@
 title: "Project Hail Mary"
 date:  2025-09-06
 categories: [literature]
-tags: [Hard Sci-Fi]
+tags: [Science Fiction]
 ---
 
 Andy Weir, Ballantine Books, 2021
