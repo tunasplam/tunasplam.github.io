@@ -5,7 +5,7 @@ categories: [literature]
 tags: [Charles Stoss, Science Fiction, Cyberpunk]
 ---
 
-The Berkeley Publishing Group, 2006
+Charles Stross, The Berkeley Publishing Group, 2006
 
 ## Introduction
 
