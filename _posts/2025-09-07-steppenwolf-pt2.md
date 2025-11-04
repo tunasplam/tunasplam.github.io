@@ -1,7 +1,7 @@
 ---
 title: "Steppenwolf - Part Two"
 date:  2025-09-07
-categories: [literature]
+categories: [literature, philosophy]
 tags: [Herman Hesse, Eastern Philosophy, Steppenwolf]
 ---
 

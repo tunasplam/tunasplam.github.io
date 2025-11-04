@@ -1,7 +1,7 @@
 ---
 title: "Siddhartha"
 date:  2025-08-01
-categories: [literature]
+categories: [literature, religious studies, philosophy]
 tags: [Herman Hesse, Eastern Philosophy]
 ---
 

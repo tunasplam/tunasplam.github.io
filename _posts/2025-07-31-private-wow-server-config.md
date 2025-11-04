@@ -1,11 +1,11 @@
 ---
 title: "Configuring and Starting Private WoW Servers"
 date:  2025-07-31
-categories: [programming]
+categories: [programming and analytics]
 tags: [games]
 ---
 
-# Configuring and Starting Private WoW Servers
+## Configuring and Starting Private WoW Servers
 
 My early childhood consisted of Ultima Online and World of Warcraft. When I was older I wanted to rediscover that childhood so I found [CMaNGOS](https://cmangos.net/). I used this script to start and configure my private CMaNGOS servers.
 
@@ -21,17 +21,17 @@ The script itself was very fun to write and in this post we will look at the dif
 
 The full script code can be found in the corresponding [github repository](https://github.com/tunasplam/start-WoW).
 
-# The Script
+## The Script
 
-## Overview
+### Overview
 
 There are three main components to the server: the mariadb database and the two scripts `realmd` and `mangosd`. Once all three services are up and running, you can start your WoW client `Wow.exe` and login to the server. There is also a config file which controls key attributes in your server such as drop rates, hp/damage scales, running speeds, chat settings, and much more. This program allows you to quickly start your server and game client with different "game-modes".
 
 Here is the basic structure of the script:
 
-```
+```text
 Accept a 'game-mode' from the user
-Set gamemode
+Set game mode
 
 check if database is running
     start if not
@@ -66,7 +66,7 @@ map(check_envvar_set, REQUIRED_ENVVARS)
 
 I highly recommend `argparse` for handling user input for scripts meant to be run in terminal. It is painless to setup up, straightforward to use, and even sets up the `-h` help text for you.
 
-Below we request a gamemode from the user. We should probably validate the user's input to restrict them to the correct options but this is a recreationally written personal use script so- corners get cut. 
+Below we request a game mode from the user. We should probably validate the user's input to restrict them to the correct options but this is a recreational personal use script so- corners get cut.
 
 ```python
 def parse_args():
@@ -85,7 +85,6 @@ mode = parse_args()
 ### Configuring the Server
 
 Lets take a peek at the `mangosd.conf` file.
-
 
 ```shell
 head mangosd.conf -n 15
@@ -107,7 +106,7 @@ head mangosd.conf -n 15
 
 Well that makes things a bit easier, we can simply export environment variables with a certain structure to overwrite the variables in the config file. This means we can avoid interacting with the config file entirely.
 
-Here is a simple config dict with sets of keys and values grouped by gamemode. Valid inputs for `--mode` should all have corresponding keys within this dict.
+Here is a simple config dict with sets of keys and values grouped by game mode. Valid inputs for `--mode` should all have corresponding keys within this dict.
 
 ```python
 PROFILES = {
@@ -253,10 +252,11 @@ ps aux | grep realmd
 And there we have it, a nifty little script to save us time and it only requires a base python installation. This only took about an hour to throw together, and it saves quite a bit of time when starting up a solo private server, especially when soloing end game content such as 5-man, 10-man, and 40-man instances.
 
 ### Why python and not a bash script?
+
 Bash is really fun to write and look at, but when it comes to quickly building a script that is easy to understand and maintain is much more important.
 
 ### How could this be made better?
 
 The user inputted game mode setting is currently *not* being validated. The `-h` flag will spit out a help text specifying allowed options, but even those are hard-coded. Since the inputted values are the keys of the config dict, we could point the help text blurb at the list of keys and then use those keys to quickly validate the user's inputted game mode. If the input is invalid, we could `print_help()` and exit.
 
-Config files could also be stored in separate `.env` files which are sourced based on your selected gamemode.
+Config files could also be stored in separate `.env` files which are sourced based on your selected game mode.

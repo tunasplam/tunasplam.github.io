@@ -1,7 +1,7 @@
 ---
 title: "Scraping Very Long Scrollbars"
 date:  2025-07-28
-categories: [programming]
+categories: [programming and analytics]
 tags: [scraping]
 ---
 
