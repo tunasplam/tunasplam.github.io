@@ -77,7 +77,7 @@ These traces can no more be hidden than one's nose, looking heavenward.
 - Maybe music connection admonition. Things where major modern works were influenced by something.
 - "Currently reading" information on left side bar.
 - Sections on right side bar should spill to next line instead of truncating.
-- Restyle the admonitions boxes and predefine several color schemes that can be used with them.
+- Restyle the admonitions boxes and predefine several color schemes that can be used with them. There needs to be both light and dark mode theme.
 
 ## Chirpy-Starter info (was already here)
 
