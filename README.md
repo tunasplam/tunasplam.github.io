@@ -12,7 +12,9 @@ This starts up live reload that can be accessed at [127.0.0.1:4000](127.0.0.1:40
 
 ### TODO Ideas
 
-Maybe music connection admonition. Things where major modern works were influenced by something.
+- Maybe music connection admonition. Things where major modern works were influenced by something.
+- "Currently reading" information on left side bar.
+- Sections on right side bar should spill to next line instead of truncating.
 
 ## Chirpy-Starter info (was already here)
 

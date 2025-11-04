@@ -1,0 +1,11 @@
+<figure style="float: {{ include.align | default: 'none' }}; width: {{ include.width | default: '50%' }}; margin: 1em;">
+  <img src="{{ include.src }}" alt="{{ include.alt }}" style="width:100%; border-radius: 8px;">
+  {% if include.caption %}
+  <figcaption style="font-size: 0.9em; color: gray;">
+    {{ include.caption }}
+    {% if include.source %}
+    <br><span style="font-style: italic;">Source:</span> {{ include.source }}
+    {% endif %}
+  </figcaption>
+  {% endif %}
+</figure>
