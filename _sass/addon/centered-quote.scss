@@ -1,0 +1,16 @@
+---
+---
+
+.centered-quote {
+  position: relative;
+  padding-left: 1rem;
+  margin-top: .5rem;
+  margin: 0 0 1rem;
+  border-left: .125rem solid var(--blockquote-border-color);
+}
+
+.centered-quote.quote-right {
+  padding: 1em 2em;
+  border-left: none;
+  border-right: .125rem solid var(--blockquote-border-color);
+}

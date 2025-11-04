@@ -1,0 +1,14 @@
+<div class="centered-quote
+  {% if include.right_bar %}
+    quote-right
+  {% else %}
+    quote-left
+  {% endif %}"
+>
+  <blockquote
+    class="quote-content"
+    style="text-align: center; white-space: pre-line;"
+  >
+    {{ include.content }}
+  </blockquote>
+</div>
