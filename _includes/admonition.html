@@ -1,6 +1,10 @@
 <div class="admonition admonition-{{ include.type | downcase }}">
   <p class="admonition-title">
-    {{ include.title }}
+    {% if include.url %}
+      <a href="{{ include.url }}" target="_blank" rel="noopener">{{ include.title }}</a>
+    {% else %}
+      {{ include.title }}
+    {% endif %}
   </p>
   <div class="admonition-content">
     {{ include.content | markdownify }}

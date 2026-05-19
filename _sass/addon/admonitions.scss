@@ -7,7 +7,7 @@
   margin: 1.5em 0;
   border-radius: 6px;
   background-color: #3ae513;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
 .admonition-title {
@@ -21,7 +21,7 @@
   border-right: 6px solid;
   margin: 1.5em 0;
   border-radius: 6px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 
   border-color: #a525eb;
   background-color: #69b3c7;
@@ -38,7 +38,7 @@
   border-right: 6px solid;
   margin: 1.5em 0;
   border-radius: 6px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 
   border-color: #c09f0a;
   background-color: #3b6828;
@@ -47,4 +47,30 @@
 
 .admonition-names-note .admonition-title::before {
   content: "✒️ Name Note -  ";
+}
+
+.admonition-wikipedia {
+  padding: 1em;
+  border-left: 6px solid;
+  border-right: 6px solid;
+  margin: 1.5em 0;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+
+  border-color: #3366cc;
+  background-color: #eaf3fb;
+  color: #1a1a1a;
+}
+
+.admonition-wikipedia .admonition-title::before {
+  content: "📖 Wikipedia - ";
+}
+
+.admonition-wikipedia .admonition-title a {
+  color: #3366cc;
+  text-decoration: none;
+}
+
+.admonition-wikipedia .admonition-title a:hover {
+  text-decoration: underline;
 }
