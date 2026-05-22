@@ -5,6 +5,6 @@ Here we will track unresolved questions and general notes through the novel. Thi
 
 ### Father's Name
 
-The father and the author have the same name?
+The father and the author have the same name? Look into that at the end of the story to avoid spoilers.
 
 Dmi
